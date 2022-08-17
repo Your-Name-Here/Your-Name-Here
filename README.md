@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning Svelte
 - 📫 How to reach me: Discord Username: *CryptoCoder#7181*
 - ⚡ Fun fact: I used to be an elephant trainer.
-<a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Your-Name-Here&theme=gruvbox" />
-</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Your-Name-Here&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
