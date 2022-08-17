@@ -1,5 +1,6 @@
 ### Hi there 👋 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Your-Name-Here/Your-Name-Here?label=Profile%20Updated&style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/Your-Name-Here?style=social)
 - 🔭 I’m currently working on **Lambot: Cryptocurrency Algorithmic Trader** (Private Repo, paid software)
 - 🔭 My current Side Project is **A Defi Bot:** (Private Repo until it becomes stable)
 - 🌱 I’m currently learning Svelte
