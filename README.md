@@ -20,6 +20,7 @@
 <details>
 <summary>More Skills</summary>
 
+
 ![](https://img.shields.io/badge/Plateform-Web3-informational?style=plastic&logo=Node-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=plastic&logo=Node-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=plastic&logo=Node-CSS&logoColor=white&color=4AB197)
